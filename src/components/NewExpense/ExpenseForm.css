@@ -24,3 +24,9 @@
 .new-expense__actions {
   text-align: right;
 }
+
+@media only screen and (max-width: 820px) {
+  .new-expense__control {
+    width: 95%;
+  }
+}
